@@ -1,0 +1,24 @@
+Roles
+Doctores:
+ -gran select
+ -insert
+ -update
+
+Contador
+ -gran select
+ -insert
+ -update
+
+RRHH
+ -gran select
+ -insert
+ -update
+
+Empleados(depende)
+ -gran insert
+ -select
+
+Enfermera
+ -Gran select
+ -insert
+ -update.
